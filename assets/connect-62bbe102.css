@@ -1,0 +1,1 @@
+.btn-wallet{margin-top:1rem;margin-left:1rem;display:inline-flex;align-items:center;border-width:1px;border-color:#0003;border-radius:.5rem;padding:.25rem}.btn-wallet>:not([hidden])~:not([hidden]){--un-space-x-reverse:0;margin-left:calc(.75rem * calc(1 - var(--un-space-x-reverse)));margin-right:calc(.75rem * var(--un-space-x-reverse))}
