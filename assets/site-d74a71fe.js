@@ -1,1 +1,0 @@
-const e={name:"Doge Affiliate Dapp",chain:"bsc",feeDiscount:2,feeReferer:4,contracts:{token:"0x5f7b5f7640009f78b9365d3423397d325d850f29",referer:"0xF8d76927Afb380665C03B4541e395843C45915FA"}};export{e as s};
